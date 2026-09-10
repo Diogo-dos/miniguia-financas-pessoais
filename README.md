@@ -1,2 +1,2 @@
-# Mini-projeto-estudos-notebooklm
-Projeto de Inteligência Artificial como uma ferramenta de aprendizagem ativa. Será um Caderno Temático no NotebookLM. 
+# Finanças Pessoais: como organizar, proteger e fazer crescer o dinheiro
+Como uma pessoa comum pode organizar sua vida financeira, tomar melhores decisões sobre consumo e investimentos e reduzir riscos financeiros?
