@@ -11,22 +11,15 @@ Como uma pessoa comum pode organizar sua vida financeira, tomar melhores decisõ
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido como parte de um bootcamp
-de Inteligência Artificial e tem como objetivo utilizar
-o NotebookLM para estudar e organizar conhecimentos
-fundamentais de finanças pessoais.
+Este projeto foi desenvolvido como parte de um bootcamp de Inteligência Artificial e tem como objetivo utilizar o NotebookLM para estudar e organizar conhecimentos fundamentais de finanças pessoais.
 
 ## Objetivo
 
-Criar um miniguia que ajude uma pessoa sem conhecimento
-prévio a compreender os principais conceitos relacionados
-à organização financeira, planejamento, reserva financeira,
-investimentos e gestão de riscos.
+Ajudar uma pessoa sem conhecimento prévio a compreender os principais conceitos relacionados à organização financeira, planejamento, reserva financeira, investimentos e gestão de riscos. 
 
-## Pergunta central
+## Dúvida
 
-Como uma pessoa comum pode organizar sua vida financeira,
-tomar melhores decisões e reduzir riscos financeiros?
+Como uma pessoa comum pode organizar sua vida financeira, tomar melhores decisões e reduzir riscos financeiros?
 
 ## Fontes
 
@@ -38,9 +31,7 @@ tomar melhores decisões e reduzir riscos financeiros?
 
 ## Metodologia
 
-As fontes foram inseridas no NotebookLM e utilizadas para
-elaborar perguntas, testar diferentes estratégias de prompt,
-comparar respostas e consolidar os principais conceitos.
+As fontes foram inseridas no NotebookLM e utilizadas para elaborar perguntas, testar diferentes estratégias de prompt, comparar respostas e consolidar os principais conceitos.
 
 ## Estrutura
 
@@ -55,11 +46,11 @@ comparar respostas e consolidar os principais conceitos.
 ## Engenharia de Prompts
 
 Atue como um professor de educação financeira.
-
 Utilize exclusivamente as fontes fornecidas no NotebookLM.
-
-Explique como uma pessoa sem conhecimento prévio pode
-organizar sua vida financeira.
+Crie um questionário prévio para montar o perfil da pessoa, caso precise perguntar mais, faça.
+Com base no perfil da pessoa, elabore um relatório, com linguagem de fácil entendimento.
+Ao final de obter um perfil montado, pergunte: "Podemos prosseguir com um diagnóstico ?"
+Após Explique como essa pessoa sem conhecimento prévio pode organizar sua vida financeira.
 
 Estruture a resposta em uma sequência lógica:
 
@@ -78,11 +69,10 @@ Para cada etapa:
 - apresente um exemplo simples;
 - indique qual fonte sustenta a explicação.
 
-Não faça recomendações de produtos financeiros específicos.
-Diferencie claramente fatos apresentados nas fontes de
-interpretações ou exemplos criados por você.
+Diferencie claramente fatos apresentados nas fontes de interpretações ou exemplos criados por você.
 
 ## Cicatrizes
 
-* Problemas encontrados
+- 
 
+## Miniguia: link: https://notebook.google.com/notebook/7d0ef38c-7d38-446b-8639-962a46d90455
